@@ -1,6 +1,6 @@
 # esercizioGarage
 
-- Un bel garage
+- Traccia:
 
 Scrivi un programma per la gestione di un garage.
 Definisci un oggetto che rappresenti un automobile, dovrà contenere almeno marca del veicolo e nome del modello.
